@@ -1,6 +1,6 @@
 ---
 title: 'Fixing "Insufficient space" update problem in BlackBerry OS 10'
-published: false
+published: true
 taxonomy:
     category:
         - howtos
