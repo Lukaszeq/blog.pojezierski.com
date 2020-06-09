@@ -5,18 +5,18 @@ content:
     items:
         - '@self.children'
     order:
-        by: folder
+        by: date
         dir: desc
-    sibling_links: false
+    sibling_links: true
 show_header_image: false
 show_clickthrough: true
 render:
     children:
         style: summary
         image: false
-        subtitle: true
+        subtitle: false
         category: true
-        date: false
+        date: true
         nested_children: true
 ---
 
