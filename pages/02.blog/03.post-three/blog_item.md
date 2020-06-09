@@ -4,6 +4,10 @@ taxonomy:
         - animals
     tag:
         - cats
+allowCSS: default
+allowJS: default
+show_header_image: false
+show_clickthrough: true
 ---
 
 This post has a summary and an image. Includes a category but no tags.
