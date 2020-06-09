@@ -1,3 +1,10 @@
+---
+allowCSS: default
+allowJS: default
+show_header_image: false
+show_clickthrough: true
+---
+
 This is a basic post with a summary header, but nothing else.
 
 ===
