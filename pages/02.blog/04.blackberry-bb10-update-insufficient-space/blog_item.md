@@ -1,5 +1,5 @@
 ---
-title: 'Cannot update BB10 because of insufficient space? Here''s how to fix that'
+title: 'Unable to update your BB10 because of not enough space? Here''s a workaround'
 taxonomy:
     category:
         - howtos
