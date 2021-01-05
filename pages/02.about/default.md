@@ -1,3 +1,10 @@
+---
+allowCSS: default
+allowJS: default
+show_header_image: false
+show_clickthrough: true
+---
+
 This page is all about me, and includes some contact information and stuff.
 
 ===
