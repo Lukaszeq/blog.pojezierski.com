@@ -11,4 +11,4 @@ is_headless: false
 subtitle: '2024-09-19'
 ---
 
-I like apples, but my gosh, there's nothing more repulsive than biting into an overripe piece. It can ruin the whole merry, Tom-Sawyer-munching-Ben-Rogers'-apple experience.
+I like apples, but my gosh, there's nothing more repulsive than biting into an overripe piece. It can ruin the whole merry, Tom-Sawyer-munching-on-Ben-Rogers'-apple experience.
