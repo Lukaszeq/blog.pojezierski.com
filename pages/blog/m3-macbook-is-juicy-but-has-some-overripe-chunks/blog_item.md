@@ -9,6 +9,7 @@ show_clickthrough: true
 show_date: default
 is_headless: false
 subtitle: '2024-09-19'
+date: '2024-09-19 21:37'
 ---
 
 I like apples, but my gosh, there's nothing more repulsive than biting into an overripe piece. It can ruin the whole merry, Tom-Sawyer-munching-on-Ben-Rogers'-apple experience.

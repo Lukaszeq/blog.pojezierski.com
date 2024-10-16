@@ -25,6 +25,7 @@ render:
         which_date: date
         nested_children: true
 child_type: blog_item
-admin: {  }
+admin:
+    children_display_order: collection
 ---
 

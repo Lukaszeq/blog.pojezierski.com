@@ -9,6 +9,7 @@ show_header_image: false
 show_clickthrough: true
 show_date: default
 is_headless: false
+date: '2024-09-18 13:03'
 ---
 
-Not too long ago, I came across an interview with Slavoj Žižek, in which he, as usual, elaborated on how Western society is steadily marching toward the edge of a cliff.
+Not too long ago, I came across an interview with Slavoj Žižek, in which he, as usual, elaborated on how Western society is steadily marching toward the edge of a cliff. 
