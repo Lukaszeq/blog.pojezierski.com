@@ -1,0 +1,20 @@
+title: 'Between Smart and Stupid'
+default_lang: en
+author:
+  name: 'Lukasz Pojezierski'
+  email: lukaszeq@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Hi there! I''m Lukasz Pojezierski, and I''d love for you to join me in this pointless pursuit of doing things that are both smart and stupid.'
+  pronunciation: '/ˈwukaʂ pɔjɛʑɛrskʲi/'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
