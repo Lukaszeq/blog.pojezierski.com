@@ -10,6 +10,7 @@ show_date: default
 is_headless: false
 subtitle: '2024-11-07'
 date: '2024-11-07 21:37'
+media_order: 'pic_2024-11_lisbon-tram-28.webp,pic_2024-11_pena-palace.webp'
 ---
 
 Lisbon―An alluring shadow of its somber, but glamorous past.

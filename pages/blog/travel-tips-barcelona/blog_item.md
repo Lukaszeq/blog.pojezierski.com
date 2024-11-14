@@ -10,6 +10,7 @@ show_date: default
 is_headless: false
 subtitle: '2024-11-06'
 date: '2024-11-06 21:37'
+media_order: 'pic_2024-11_eixample.webp,pic_2024-11_sagrada-familia.webp'
 ---
 
 Barcelona―Where the effluvia of the European society flows into. That’s a pity because Barcelona is everything but a septic tank.
