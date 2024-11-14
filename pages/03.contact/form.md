@@ -21,9 +21,10 @@ partials:
     breadcrumbs:
         toggle: false
 menu: 'If you want to blackmail me, or simply say "I hate you", click here'
+date: '2024-09-01 00:10'
 ---
 
-No contact form here - I don't particularly appreciate sending messages to an unspecified addressee. 
+No contact form here—I don't particularly appreciate sending messages to an unspecified addressee. 
 
 Write me at **lukasz 🐒 pojezierski _dot_ com**.
 <br/><br/>
