@@ -1,5 +1,5 @@
 ---
-title: 'Travel Tips & Reflections: Lisbon'
+title: 'Travel Tips & Impressions: Lisbon'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default

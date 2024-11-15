@@ -1,5 +1,5 @@
 ---
-title: 'Travel Tips & Reflections: Barcelona'
+title: 'Travel Tips & Impressions: Barcelona'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default

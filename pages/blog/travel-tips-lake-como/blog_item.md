@@ -1,5 +1,5 @@
 ---
-title: 'Travel Tips & Reflections: Lake Como (Around The Junction Plus Brunate)'
+title: 'Travel Tips & Impressions: Lake Como (Around The Junction Plus Brunate)'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default
