@@ -1,20 +1,23 @@
 ---
 title: 'In the Market for Under 75€ Bluetooth Headphones? Look No Further: Sony WH-CH720N Review Plus Equalizer Settings'
+published: false
+date: '2024-11-30 21:37'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default
 allowJS: default
+customCSS: "th, tr {\npadding: 0 1em 0 1em;\nfont-size: 1.2rem;\n}"
+subtitle: '2024-11-30'
 show_header_image: false
 show_clickthrough: true
 show_date: default
 is_headless: false
-subtitle: '2024-11-30'
-date: '2024-11-30 21:37'
-published: true
-customCSS: "th, tr {\npadding: 0 1em 0 1em;\nfont-size: 1.2rem;\n}"
+media_order: pic_2024-11_sony-app.webp
 ---
 
-Since 2019, I was rocking a pair of TaoTronics SoundSurge 60 I bought on German Amazon for 47€. Sehr guter Preis, oder? The sound quality was far from perfect, but bass was kept at bay, and mids were decent. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.
+Since 2019, I had been rocking a pair of TaoTronics SoundSurge 60 headphones I bought on German Amazon for 47€. Sehr guter Preis, oder? I bought them blindly, as I was looking for moderately priced noise-cancelling over-ear headphones, and that particular model seemed like a bang for the buck. Reviews were generally positive, though trusting Amazon reviews is about as smart as trusting Michael Jackson for last-minute babysitting. The sound quality was far from perfect but definitely not terrible. They were comfy, and the ANC was really good—it upheld my sanity on many flights.
+
+After five years of honorable service, they finally gave up: the faux leather on the headband peeled off, the battery stopped charging, and one day I came home only to find that both earcups had decided to go their separate ways. I still can’t figure out how that happened. I suspect irreconcilable differences. So, I pressed <kbd>F</kbd> to pay respects and looked to the horizon as they sailed off to the E-waste-halla on a burning drakkar.
 
 **Curb Your Bass-thusiasm** equalizer settings:
 
@@ -28,6 +31,9 @@ Since 2019, I was rocking a pair of TaoTronics SoundSurge 60 I bought on German 
 |:---:|:--:|:----:|:----:|:---:|:--------------:|
 |  +1 |  0 |   +2  |  +6  |  +9 |        +6       |
 
-Cans cans cans. Since 2019, I was rocking a pair of TaoTronics SoundSurge 60 I bought on German Amazon for 47€. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.Cans cans cans. Since 2019, I was rocking a pair of TaoTronics SoundSurge 60 I bought on German Amazon for 47€. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.Cans cans cans. Since 2019, I was rocking a pair of TaoTronics SoundSurge 60 I bought on German Amazon for 47€. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.Cans cans cans. Since 2019, I was rocking a pair of TaoTronics SoundSurge 60 I bought on German Amazon for 47€. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.Cans cans cans. Since 2019, I was rocking a pair of TaoTronics SoundSurge 60 I bought on German Amazon for 47€. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.Cans cans cans. Since 2019, I was rocking a pair of TaoTronics SoundSurge 60 I bought on German Amazon for 47€. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.
+Cans cans cans. Since 2019, I was rocking a pair of TaoTronics SoundSurge 60 I bought on German Amazon for 47€. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.Cans cans cans. Since 2019, I was rocking a pair of TaoTronics 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1GrG1b6evaDoaj7ewG2Glm?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+![pic_2024-11_sony-app](pic_2024-11_sony-app.webp "pic_2024-11_sony-app")
+<span class="pic-caption">The app is pretty on the outside, but on the inside—sometimes scruffy. Image by Ł.P. Credit: Sony / Meta</span>
+
+SoundSurge 60 I bought on German Amazon for 47€. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.Cans cans cans. Since 2019, I was rocking a pair of TaoTronics 
