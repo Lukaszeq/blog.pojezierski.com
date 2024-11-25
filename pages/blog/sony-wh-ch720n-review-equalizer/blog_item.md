@@ -12,7 +12,7 @@ show_header_image: false
 show_clickthrough: true
 show_date: default
 is_headless: false
-media_order: pic_2024-11_sony-app.webp
+media_order: 'pic_2024-11_sony-app.webp,pic_2024_eqmac.webp'
 ---
 
 Since 2019, I had been rocking a pair of TaoTronics SoundSurge 60 headphones I bought on German Amazon for 47€. Sehr guter Preis, oder? I bought them blindly, as I was looking for moderately priced noise-cancelling over-ear headphones, and that particular model seemed like a bang for the buck. Reviews were generally positive, though trusting Amazon reviews is about as smart as trusting Michael Jackson for last-minute babysitting. The sound quality was far from perfect but definitely not terrible. They were comfy, and the ANC was really good—it upheld my sanity on many flights.
@@ -33,7 +33,9 @@ After five years of honorable service, they finally gave up: the faux leather on
 
 Cans cans cans. Since 2019, I was rocking a pair of TaoTronics SoundSurge 60 I bought on German Amazon for 47€. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.Cans cans cans. Since 2019, I was rocking a pair of TaoTronics 
 
-![pic_2024-11_sony-app](pic_2024-11_sony-app.webp "pic_2024-11_sony-app")
+![pic_2024-11_sony-app](pic_2024-11_sony-app.webp "The app is pretty on the outside, but on the inside—sometimes scruffy.")
 <span class="pic-caption">The app is pretty on the outside, but on the inside—sometimes scruffy. Image by Ł.P. Credit: Sony / Meta</span>
 
 SoundSurge 60 I bought on German Amazon for 47€. I pressed <kbd>F</kbd> to pay respects, then looked at the horizon as they sailed off to the E-waste-halla on a burning drakkar.Cans cans cans. Since 2019, I was rocking a pair of TaoTronics 
+
+![pic_2024_eqmac](pic_2024_eqmac.webp "pic_2024_eqmac")<br/><span class="pic-caption">Credit: Roman Kisil, Bitgapp / Apple</span>

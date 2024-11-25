@@ -19,17 +19,14 @@ A week of wandering along the East of Sicily taught me valuable lessons about wh
 Let’s get it straight out of the way: Catania is a pig pen put in the middle of a lush garden. Okay, on the first glimpse, Catania is disappointing, to say the least. 
 
 
-![pic_2024-11_villa-casale](pic_2024-11_villa-casale.webp "Psyche and Cupid in the throes of passion")
-<span class="pic-caption">Psyche and Cupid in the throes of passion. Photo by Ł. Pojezierski, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed">CC BY-NC-ND 4.0</a></span>
+![pic_2024-11_villa-casale](pic_2024-11_villa-casale.webp "Psyche and Cupid in the throes of passion")<br/><span class="pic-caption">Psyche and Cupid in the throes of passion. Photo by Ł. Pojezierski, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed" target="_blank">CC BY-NC-ND 4.0</a></span>
 
 blablablbalbablaabla
 
-![pic_2024-11_siracusa](pic_2024-11_siracusa.webp "A backstreet in Syracuse")
-<span class="pic-caption">A backstreet in Syracuse. Photo by Ł. Pojezierski, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed">CC BY-NC-ND 4.0</a></span>
+![pic_2024-11_siracusa](pic_2024-11_siracusa.webp "A backstreet in Syracuse")<br/><span class="pic-caption">A backstreet in Syracuse. Photo by Ł. Pojezierski, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed" target="_blank">CC BY-NC-ND 4.0</a></span>
 
 dasdassa
 
-![pic_2024-11_taormina](pic_2024-11_taormina.webp "One of the few quiet alleys in Taormina")
-<span class="pic-caption">One of the few quiet alleys in Taormina. Photo by Ł. Pojezierski, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed">CC BY-NC-ND 4.0</a></span>
+![pic_2024-11_taormina](pic_2024-11_taormina.webp "One of the few quiet alleys in Taormina")<br/><span class="pic-caption">One of the few quiet alleys in Taormina. Photo by Ł. Pojezierski, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed" target="_blank">CC BY-NC-ND 4.0</a></span>
 
 dasdassa
