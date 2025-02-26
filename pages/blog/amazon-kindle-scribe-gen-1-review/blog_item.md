@@ -1,5 +1,5 @@
 ---
-title: "A Caveman's Review: Amazon Kindle Scribe (Gen. 1)"
+title: 'Almost Perfect—Unless You Read Academic Papers: Amazon Kindle Scribe (Gen. 1) Review'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default

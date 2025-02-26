@@ -1,5 +1,5 @@
 ---
-title: 'The World Is More Cyberpunk-ish than We Thought: The Cancer of Silicon Valley'
+title: 'Social Media: The Viper We’ve Nourished in Our Bosom'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default

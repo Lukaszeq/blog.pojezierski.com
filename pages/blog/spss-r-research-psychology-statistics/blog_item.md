@@ -1,5 +1,5 @@
 ---
-title: "A Poser's Review: The Penis Book by Aaron Spitz"
+title: 'R Really Rocks for Psych Research Calculations'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default

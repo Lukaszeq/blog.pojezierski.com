@@ -1,5 +1,5 @@
 ---
-title: 'Travel Tips & Impressions: Eastern Sicily (Taormina, Syracuse, And More)'
+title: 'Travel Tips & Impressions: Eastern Sicily (Taormina, Ortigia, And More)'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default
@@ -14,9 +14,11 @@ media_order: 'pic_2024-11_siracusa.webp,pic_2024-11_taormina.webp,pic_2024-11_vi
 published: false
 ---
 
-A week of wandering along the East of Sicily taught me valuable lessons about what to expect from the biggest island in the Mediterranean. Still, seven days is just a fraction of the time you need to fully grasp the good, the bad, and the ugly of Eastern Sicily. 
+A week of wandering through the east of Sicily taught me valuable lessons about what to expect from the largest island in the Mediterranean. Still, seven days is just a fraction of the time needed to fully grasp the good, the bad, and the ugly of eastern Sicily. I wish we had spent more time in the shadow of Mount Etna (and during the not-so-low season) and had enjoyed the plethora of natural wonders, of which Sicily is not short. 
 
-Let’s get it straight out of the way: Catania is a pig pen put in the middle of a lush garden. Okay, on the first glimpse, Catania is disappointing, to say the least. 
+# Catania
+
+Let’s get it straight out of the way: Catania is a pig pen put in the middle of a lush garden. Okay, at the first glimpse, Catania is disappointing, to say the least. 
 
 
 ![pic_2024-11_villa-casale](pic_2024-11_villa-casale.webp "Psyche and Cupid in the throes of passion")<br/><span class="pic-caption">Psyche and Cupid in the throes of passion. Photo by Ł. Pojezierski, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed" target="_blank">CC BY-NC-ND 4.0</a></span>

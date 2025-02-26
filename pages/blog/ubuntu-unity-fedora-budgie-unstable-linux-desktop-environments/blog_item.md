@@ -1,5 +1,5 @@
 ---
-title: 'A Bug-ridden New Deal: FC 24 (Nintendo Switch) Review'
+title: 'The Curse of Linux’s Most Usable Desktop Environments'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default
@@ -8,8 +8,10 @@ show_header_image: false
 show_clickthrough: true
 show_date: default
 is_headless: false
-subtitle: '2024-12-10'
-date: '2024-10-10 21:37'
+subtitle: '2024-11-10'
+date: '2024-12-06 21:22'
 published: false
 ---
+
+Lisbon―An alluring shadow of its somber, but glamorous past.
 

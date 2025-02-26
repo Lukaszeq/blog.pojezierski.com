@@ -1,5 +1,5 @@
 ---
-title: "A Dork's Review: FIFA 23 (Nintendo Switch)"
+title: 'An Enjoyable, Broken (Allegedly) Record: FIFA 23 (Nintendo Switch) Review'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default

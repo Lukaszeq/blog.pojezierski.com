@@ -1,5 +1,5 @@
 ---
-title: 'How to Make Your Laptop STFU. Undervolting ThinkPad X270'
+title: 'How to Make Your Laptop STFU: Undervolting ThinkPad X270'
 media_order: 'pic_2024_burnintest_after.webp,pic_2024_burnintest_before.webp,pic_2024_heavyload_after.webp,pic_2024_heavyload_before.webp,pic_2024_hwmonitor-before-idle.webp,pic_2024_occt-after.webp,pic_2024_occt-before.webp,pic_2024_pcmark-detailed-results_after.webp,pic_2024_pcmark-detailed-results_before.webp,pic_2024_pcmark-rendering_after.webp,pic_2024_pcmark-rendering_before.webp,pic_2024_pcmark-results_after.webp,pic_2024_pcmark-results_before.webp,pic_2024_throttlestop-fivr.webp,pic_2024_throttlestop-main.webp,pic_2024_throttlestop-turbo-power-limits.webp,pic_2024_unigine-after.webp,pic_2024_unigine-before.webp,pic_2024_undervolting_decibels.webp'
 published: false
 date: '2024-10-20 21:37'
@@ -21,14 +21,14 @@ I've got myself a rather cute Lenovo ThinkPad X270: i5, 16 gigs of RAM, NVMe SSD
 
 As you might have figured out by now, I am a big Apple fan: I've been daily driving Macs since 2011.
 
-![pic_2024_undervolting_decibels](pic_2024_undervolting_decibels.webp "Before and after undervolting. 13 dB difference is more than noticeable")<br/><span class="pic-caption">Before and after undervolting. 13 dB difference is more than noticeable. Photo: Łukasz Pojezierski, licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a></span>
+![pic_2024_undervolting_decibels](pic_2024_undervolting_decibels.webp "Before and after undervolting. 13 dB difference is more than noticeable")<br/><span class="pic-caption">Before and after undervolting. 13 dB difference is more than noticeable. Photo by Łukasz Pojezierski, licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a></span>
 
-[![pic_2024_hwmonitor-before-idle](pic_2024_hwmonitor-before-idle.webp)](pic_2024_hwmonitor-before-idle.webp "pdsadsadsasda")<br/><span class="pic-caption">I don't want to burn the Midnight Oil when my Hands Are Burning. Do you get the joke? Credit: CPUID / Microsoft</span>
+[![pic_2024_hwmonitor-before-idle](pic_2024_hwmonitor-before-idle.webp)](pic_2024_hwmonitor-before-idle.webp "pdsadsadsasda")<br/><span class="pic-caption">I don't want to burn the Midnight Oil when my Hands Are Burning. Do you get the joke? Credit: CPUID / Microsoft. Screenshot by Ł.P.</span>
 
 <span class="warning-sign">WARNING</span> This walkthrough has been tested on a Lenovo ThinkPad X270 (Intel Core i5-6300U, Windows 11) and it worked for me. However, please note that overclocking your CPU carries the risk of causing irreversible damage to your computer. I am not responsible for any loss or damage resulting from following this guide. Proceed at your own risk.
 
-[![pic_2024_throttlestop-main](pic_2024_throttlestop-main.webp)](pic_2024_throttlestop-main.webp "pic_2024_throttlestop-main")<br/><span class="pic-caption">Hideous and too powerful—just like Donald Trump. Credit: Kevin Glynn / Microsoft</span>
+[![pic_2024_throttlestop-main](pic_2024_throttlestop-main.webp)](pic_2024_throttlestop-main.webp "pic_2024_throttlestop-main")<br/><span class="pic-caption">Hideous and too powerful—just like Donald Trump. Credit: Kevin Glynn / Microsoft. Screenshot by Ł.P.</span>
 
-[![pic_2024_throttlestop-fivr](pic_2024_throttlestop-fivr.webp)](pic_2024_throttlestop-fivr.webp "pic_2024_throttlestop-fivr")<br/><span class="pic-caption">This is the playground. Careful with that axe, Eugene. Credit: Kevin Glynn / Microsoft</span>
+[![pic_2024_throttlestop-fivr](pic_2024_throttlestop-fivr.webp)](pic_2024_throttlestop-fivr.webp "pic_2024_throttlestop-fivr")<br/><span class="pic-caption">This is the playground. Careful with that axe, Eugene. Credit: Kevin Glynn / Microsoft. Screenshot by Ł.P.</span>
 
-[![pic_2024_throttlestop-turbo-power-limits](pic_2024_throttlestop-turbo-power-limits.webp)](pic_2024_throttlestop-turbo-power-limits.webp "pic_2024_throttlestop-turbo-power-limits")<br/><span class="pic-caption">Just one small setting makes a difference. Credit: Kevin Glynn / Microsoft</span>
+[![pic_2024_throttlestop-turbo-power-limits](pic_2024_throttlestop-turbo-power-limits.webp)](pic_2024_throttlestop-turbo-power-limits.webp "pic_2024_throttlestop-turbo-power-limits")<br/><span class="pic-caption">Just one small setting makes a difference. Credit: Kevin Glynn / Microsoft. Screenshot by Ł.P.</span>
