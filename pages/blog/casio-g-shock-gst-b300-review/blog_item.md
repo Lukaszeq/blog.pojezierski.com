@@ -14,8 +14,8 @@ published: false
 media_order: pic_2024_casio-g-steel.webp
 taxonomy:
     tag:
-        - wristwatches
-        - reviews
+        - wristwatch
+        - review
 ---
 
 KINDLE
