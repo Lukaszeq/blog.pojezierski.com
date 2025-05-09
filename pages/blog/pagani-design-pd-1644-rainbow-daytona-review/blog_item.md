@@ -13,8 +13,9 @@ date: '2024-12-06 21:22'
 published: false
 taxonomy:
     tag:
-        - review
         - wristwatch
+        - review
+media_order: pic_2025_pagani-daytona-rainbow.webp
 ---
 
 Lisbon―An alluring shadow of its somber, but glamorous past.

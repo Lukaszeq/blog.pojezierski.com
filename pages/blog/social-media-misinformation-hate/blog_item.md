@@ -1,5 +1,5 @@
 ---
-title: 'Social Media: The Viper We’ve Nourished in Our Bosom'
+title: 'If Social Media Were Shut Down Tomorrow, Would You Really Miss Them?'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default

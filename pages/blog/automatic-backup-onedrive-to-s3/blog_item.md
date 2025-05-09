@@ -1,5 +1,5 @@
 ---
-title: 'How to Automatically Backup OneDrive to S3-Compatible Storage'
+title: 'How to Automatically Backup OneDrive to S3-compatible Storage (Aruba Cloud)'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default

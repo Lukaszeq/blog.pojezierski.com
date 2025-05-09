@@ -11,6 +11,7 @@ is_headless: false
 subtitle: '2024-11-10'
 date: '2024-12-06 21:22'
 published: false
+media_order: pic_2025_casio-tiffany-tank-grey.webp
 ---
 
 Lisbon―An alluring shadow of its somber, but glamorous past.

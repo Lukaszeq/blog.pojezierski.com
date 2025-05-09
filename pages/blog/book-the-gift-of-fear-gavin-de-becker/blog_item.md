@@ -1,5 +1,5 @@
 ---
-title: 'Good Gut Feeling: The Gift of Fear by Gavin de Becker Review'
+title: 'Worth Reading: The Gift of Fear by Gavin de Becker'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default
