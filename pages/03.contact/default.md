@@ -26,7 +26,7 @@ date: '2024-09-01 00:10'
 
 No contact form here—I don't particularly appreciate receiving messages from an unspecified addressee. 
 
-Write me at **lukasz 🐒 pojezierski _&delta;&omicron;&tau;_ com**.
+Write me at **lukasz 🐒 pojezierski <sub>δοτ</sub> com**
 <br/><br/>
 
 ## Tin Foil Hat Corner
