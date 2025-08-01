@@ -30,8 +30,3 @@ Kebap on plate with fries! A great honor.
 ![image://custom-icons/icon_jellied-eels.webp](image://custom-icons/icon_jellied-eels.webp)
 Lovely as much as supermarket jellied eels.
 <span class="pic-caption">Credit: Bradley’s</span>
-
-## Score
-![image://custom-icons/icon_canned-pasta.webp](image://custom-icons/icon_canned-pasta.webp)
-
-<span class="pic-caption">Credit: Thomson200, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed)</span>
