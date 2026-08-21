@@ -43,9 +43,6 @@
 
 {# Title & Subtitle #}
 {% if not page.home() %}
-{% if page.template == 'blog_item' %}
-<span class="back-link"><a href="javascript:history.back()">&#8617; Back</a></span>
-{% endif %}
 <h2>
   <a href="{{ page.url }}">{{ page.title }}</a>
 </h2>
