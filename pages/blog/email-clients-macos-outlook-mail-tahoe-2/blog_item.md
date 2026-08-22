@@ -1,5 +1,5 @@
 ---
-title: 'State of the E-mail on macOS. The Trainwreck Trifecta: Outlook, Mail & Tahoe 2'
+title: 'Hidden Gems of macOS: My Selection of Best Apps in 2026'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default
