@@ -1,5 +1,5 @@
 ---
-title: 'State of the E-mail on macOS. The Trainwreck Trifecta: Outlook, Mail & Tahoe'
+title: 'State of the E-mail on macOS. The Trainwreck Trifecta: Outlook, Mail & Tahoe 2'
 sitemap:
     lastmod: '2024-09-19 12:22'
 allowCSS: default
