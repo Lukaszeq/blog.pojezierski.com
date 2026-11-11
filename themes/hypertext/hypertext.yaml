@@ -3,7 +3,8 @@ structure:
   inline_pagination: true
   use_decorators: true
   html_mode: default
-  use_favicon: false
+  use_favicon: true
+  favicon: /assets/favicon.webp 
   show_date: false
 style:
   configuration: centered
